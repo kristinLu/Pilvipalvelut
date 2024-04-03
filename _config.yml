@@ -1,6 +1,6 @@
 title: Jekyll:iä käyttävä sivusto
 description: Tervetuloa sivustolle!
-theme: jekyll-theme-cayman
+remote_theme: "jeffreytse/jekyll-theme-yat"
 
 header_pages:
 - index.html
