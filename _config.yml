@@ -1,8 +1,7 @@
 title: Jekyll:iä käyttävä sivusto
 description: Tervetuloa sivustolle!
-remote_theme: "jeffreytse/jekyll-theme-yat"
+theme: jekyll-theme-cayman
 
 header_pages:
-- index.html
-
-github_username: kristinLu
+- index.md
+- vko2.md
