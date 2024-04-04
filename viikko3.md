@@ -1,1 +1,1 @@
-Tervetuloa GitHub Pages-sivustolleni!
+Tähän tulee kolmannen viikon tehtävät
