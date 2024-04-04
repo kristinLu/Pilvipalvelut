@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>GitHub Pages Sivuni</title>
-    <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
-<body>
-    <h1>Tervetuloa GitHub Pages-sivustolleni!</h1>
-    <p class="container">Tämä on ensimmäinen GitHub Pages -teksti.</p>
-</body>
-</html>
+
+# Tervetuloa GitHub Pages-sivustolleni!
+
+Tämä on ensimmäinen GitHub Pages -teksti.
