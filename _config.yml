@@ -1,3 +1,3 @@
 title: Pilvipalvelut web-kehityksessä
 description: Tehtäväpalautukset
-remote_theme: chrisrhymes/mere-blog-theme
+theme: jekyll-theme-minimal
