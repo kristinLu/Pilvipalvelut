@@ -3,4 +3,4 @@
 
 Tämä on ensimmäinen GitHub Pages -teksti.
 
-({% include viikko1.html %})
+({% include eka.html %})
