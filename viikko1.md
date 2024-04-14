@@ -4,4 +4,4 @@
 
 Tämä on ensimmäinen GitHub Pages -teksti.
 
-({% include eka.html %})
+{% include eka.html %}
