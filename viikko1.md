@@ -3,4 +3,4 @@
 
 Tämä on ensimmäinen GitHub Pages -teksti.
 
-<iframe src="https://kristinLu.github.io/Pilvipalvelut/index.html" width="100%"></iframe>
+({% include index.html %})
