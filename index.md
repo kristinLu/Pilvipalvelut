@@ -7,7 +7,7 @@
 - [Viikko 1](viikko1.md)
 - [Viikko 2](viikko2.md)
 - [Viikko 3](Vko3)
-- Viikko 4
+- [Viikko 4](Vko4)
 - Viikko 5
 - Viikko 6
 - Harjoitustyö
