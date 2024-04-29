@@ -1,3 +1,7 @@
+<script>
+  alert("Hello, world!");
+</script>
+
 *GitHub Pages Sivuni, jossa Jekyll teema*
 
 ## Tervetuloa GitHub Pages-sivustolleni!
