@@ -8,7 +8,7 @@
 
 > Täältä löytyvät tehtäväpalautukset:
 
-- [Viikko 1](eka.html)
+- [Viikko 1](viikko1.md)
 - [Viikko 2](viikko2.md)
 - [Viikko 3](Vko3)
 - [Viikko 4](Vko4)
