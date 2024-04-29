@@ -1,6 +1,6 @@
-<script>
-  alert("Hello, world!");
-</script>
+<object type="text/html" data="matomo.html">
+  <p>Unable to load external HTML file.</p>
+</object>
 
 *GitHub Pages Sivuni, jossa Jekyll teema*
 
