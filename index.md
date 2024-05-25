@@ -14,4 +14,4 @@
 - [Viikko 4](Vko4)
 - [Viikko 5](Vko5)
 - [Viikko 6](Vko6)
-- Harjoitustyö
+- [Harjoitustyö](Harjoitustyo)
